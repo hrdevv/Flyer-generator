@@ -1,0 +1,7 @@
+{
+  "name": "Professional Flyer Designer & Image Editor",
+  "description": "A high-end professional graphic design tool for creating grant scheme flyers with integrated AI-powered image editing capabilities using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
